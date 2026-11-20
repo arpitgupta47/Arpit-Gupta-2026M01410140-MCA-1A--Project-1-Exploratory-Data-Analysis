@@ -7,7 +7,6 @@ This project explores a simulated retail company's 7,084 raw transactions from I
 - `app.py` - interactive Streamlit dashboard.
 - `Retail_EDA_Project.ipynb` - data-quality audit, cleaning, analysis, and saved cleaned-data export.
 - `Retail_EDA_Insights_Report.pdf` - three-page, management-facing findings report for submission.
-- `EDA_Insights_Report.docx` - editable Word version of the insights report.
 - `Retail_Sales_Dashboard.html` - standalone dashboard; its findings summarize the full dataset, while its filters update KPIs and charts.
 - `retail_customer_sales_dataset.csv` - raw input data.
 - `cleaned_retail_customer_sales_dataset.csv` - cleaned data used by the dashboard and tests.
