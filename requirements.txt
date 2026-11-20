@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas
+numpy
+plotly
+pytest
+matplotlib
+seaborn
+missingno
+ipykernel
